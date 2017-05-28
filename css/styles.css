@@ -528,6 +528,12 @@ Button Modules
   background-color: #fff;
   color: #39b54a; }
 
+footer {
+  color: #fff; }
+
+img {
+  padding-top: 10px; }
+
 .frame {
   overflow: hidden; }
 
