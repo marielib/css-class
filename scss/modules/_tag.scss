@@ -1,0 +1,17 @@
+.tag {
+    position: absolute;
+    top: -20px;
+    z-index: 99;
+    padding: 10px 35px 10px 10px;
+    font-weight: bold;
+    color: #fff;
+  }
+.feature-one .tag {
+    background-color: $green;
+  }
+.feature-two .tag {
+    background-color: $orange;
+}
+.feature-three .tag {
+    background-color: $brown;
+}
